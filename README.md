@@ -89,7 +89,6 @@ py -c "import arquiteia; print(arquiteia.compute_gemm_flops(8))"
 - [ai_trainer/dataset_generator.py](ai_trainer/dataset_generator.py)
 - [api_orchestrator/main.py](api_orchestrator/main.py)
 
-Se quiser, eu: (A) adiciono um endpoint `/health` na API, (B) gero um script `build_and_test.ps1` automático, ou (C) preparo um README em inglês. Escolha uma opção.
 # 🧠 ArquiteIA
 
 **Arquitetura de Computadores + Inteligência Artificial**
