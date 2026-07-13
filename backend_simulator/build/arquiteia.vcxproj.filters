@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\eduardo.leite\Documents\Estudo\Github\IA\ArquiteIA\backend_simulator\src\cache_simulator.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\eduardo.leite\Documents\Estudo\Github\IA\ArquiteIA\backend_simulator\src\matmul_tiling.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\eduardo.leite\Documents\Estudo\Github\IA\ArquiteIA\backend_simulator\src\arquiteia_bindings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\eduardo.leite\Documents\Estudo\Github\IA\ArquiteIA\backend_simulator\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4099BE9E-3377-3276-B4D3-2D4A363EB3B0}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

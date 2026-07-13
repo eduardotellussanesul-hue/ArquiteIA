@@ -1,0 +1,10 @@
+py -m pip install -r requirements.txt
+py -m pip install --user pybind11
+py ai_trainer/dataset_generator.py
+py ai_trainer/optimize_tile.py
+uvicorn api_orchestrator.main:app --reload --host 127.0.0.1 --port 8000
+
+cd backend_simulator
+cd build
+cmake .. -DCMAKE_BUILD_TYPE=Release
+cmake --build . --config Release

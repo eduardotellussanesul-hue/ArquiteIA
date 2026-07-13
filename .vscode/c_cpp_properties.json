@@ -1,0 +1,34 @@
+{
+  "configurations": [
+    {
+      "name": "Win32",
+      "includePath": [
+        "${workspaceFolder}/**",
+        "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/include",
+        "C:/Program Files (x86)/Windows Kits/10/Include/10.0.19041.0/ucrt",
+        "C:/Program Files (x86)/Windows Kits/10/Include/10.0.19041.0/shared",
+        "C:/Program Files (x86)/Windows Kits/10/Include/10.0.19041.0/um",
+        "C:/Program Files (x86)/Windows Kits/10/Include/10.0.19041.0/winrt",
+        "C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include",
+        "C:/ProgramData/mingw64/mingw64/include",
+        "C:/Users/eduardo.leite/AppData/Local/Programs/Python/Python312/Include"
+      ],
+      "defines": ["WIN32", "_WINDOWS"],
+      "compilerPath": "C:/Program Files/Microsoft Visual Studio/18/Community/VC/Tools/MSVC/14.51.36231/bin/Hostx64/x64/cl.exe",
+      "cStandard": "c11",
+      "cppStandard": "c++17",
+      "intelliSenseMode": "windows-msvc-x64",
+      "browse": {
+        "path": [
+          "C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/include",
+          "C:/Program Files (x86)/Windows Kits/10/Include/10.0.19041.0/ucrt",
+          "C:/Program Files (x86)/Windows Kits/10/Include/10.0.19041.0/shared",
+          "C:/Program Files (x86)/Windows Kits/10/Include/10.0.19041.0/um",
+          "C:/ProgramData/mingw64/mingw64/x86_64-w64-mingw32/include",
+          "C:/Users/eduardo.leite/AppData/Local/Programs/Python/Python312/Include"
+        ]
+      }
+    }
+  ],
+  "version": 4
+}

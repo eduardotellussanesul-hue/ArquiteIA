@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\eduardo.leite\Documents\Estudo\Github\IA\ArquiteIA\backend_simulator\build\CMakeFiles\070f0270cc7b4f8c8016d24da2f0cb44\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{7745E0AE-85F6-3E8A-9F98-DE5D4A90A9F8}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

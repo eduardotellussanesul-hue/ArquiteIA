@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "C:/Users/eduardo.leite/Documents/Estudo/Github/IA/ArquiteIA/backend_simulator/build/_deps/pybind11-subbuild/CMakeFiles/pybind11-populate"
+		},
+		{
+			"file" : "C:/Users/eduardo.leite/Documents/Estudo/Github/IA/ArquiteIA/backend_simulator/build/_deps/pybind11-subbuild/CMakeFiles/2b9e9152182b6a2cbd325f162c161599/pybind11-populate.rule"
+		},
+		{
+			"file" : "C:/Users/eduardo.leite/Documents/Estudo/Github/IA/ArquiteIA/backend_simulator/build/_deps/pybind11-subbuild/CMakeFiles/67c1f9184757d62949df5393130fe1d0/pybind11-populate-complete.rule"
+		},
+		{
+			"file" : "C:/Users/eduardo.leite/Documents/Estudo/Github/IA/ArquiteIA/backend_simulator/build/_deps/pybind11-subbuild/CMakeFiles/746c889082d765dd7ce1c3a91408984c/pybind11-populate-build.rule"
+		},
+		{
+			"file" : "C:/Users/eduardo.leite/Documents/Estudo/Github/IA/ArquiteIA/backend_simulator/build/_deps/pybind11-subbuild/CMakeFiles/746c889082d765dd7ce1c3a91408984c/pybind11-populate-configure.rule"
+		},
+		{
+			"file" : "C:/Users/eduardo.leite/Documents/Estudo/Github/IA/ArquiteIA/backend_simulator/build/_deps/pybind11-subbuild/CMakeFiles/746c889082d765dd7ce1c3a91408984c/pybind11-populate-download.rule"
+		},
+		{
+			"file" : "C:/Users/eduardo.leite/Documents/Estudo/Github/IA/ArquiteIA/backend_simulator/build/_deps/pybind11-subbuild/CMakeFiles/746c889082d765dd7ce1c3a91408984c/pybind11-populate-install.rule"
+		},
+		{
+			"file" : "C:/Users/eduardo.leite/Documents/Estudo/Github/IA/ArquiteIA/backend_simulator/build/_deps/pybind11-subbuild/CMakeFiles/746c889082d765dd7ce1c3a91408984c/pybind11-populate-mkdir.rule"
+		},
+		{
+			"file" : "C:/Users/eduardo.leite/Documents/Estudo/Github/IA/ArquiteIA/backend_simulator/build/_deps/pybind11-subbuild/CMakeFiles/746c889082d765dd7ce1c3a91408984c/pybind11-populate-patch.rule"
+		},
+		{
+			"file" : "C:/Users/eduardo.leite/Documents/Estudo/Github/IA/ArquiteIA/backend_simulator/build/_deps/pybind11-subbuild/CMakeFiles/746c889082d765dd7ce1c3a91408984c/pybind11-populate-test.rule"
+		},
+		{
+			"file" : "C:/Users/eduardo.leite/Documents/Estudo/Github/IA/ArquiteIA/backend_simulator/build/_deps/pybind11-subbuild/CMakeFiles/746c889082d765dd7ce1c3a91408984c/pybind11-populate-update.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"pybind11-populate"
+		],
+		"name" : "pybind11-populate"
+	}
+}
